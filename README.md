@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Project Details.
+
+This is a memory game project. The user have to select two cards and match them if they select two cards that match then the cards will be fixed and if the card do not match then the cards flip back. The user will get the number of turns to make the card matched in the game. The user can start a new game after the end of the first game.
+
+## Deploy the project.
+
+The project is deployed in heroku.
+The link of the project https://react-memory-card-game-app.herokuapp.com/ 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
